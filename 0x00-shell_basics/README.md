@@ -1,1 +1,1 @@
-Delete the file betty..
+Clean Emacs
