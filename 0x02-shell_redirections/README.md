@@ -1,1 +1,1 @@
-DJ Cut Killer
+ No more javascript
